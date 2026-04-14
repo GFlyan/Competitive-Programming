@@ -1,3 +1,4 @@
 /ignore/
 /.idea/
-CMakeLists.txt
+**/CMakeLists.txt
+*.exe
