@@ -1,12 +1,14 @@
+#include <iomanip>
 #include <iostream>
 
 using namespace std;
 
-int main() {
- //1<=x<=10^4
-    //d<L
-    int d, L, v1, v2;
-    cin >> d >> L >> v1 >> v2;
+using ld = long double;
 
+int main() {
+    int d,l,v1,v2;
+    cin >> d >> l >> v1 >> v2;
+    long double t = (long double)(l-d)/(v1+v2);
+    cout << setprecision(9) << t << "\n";
     return 0;
 }
