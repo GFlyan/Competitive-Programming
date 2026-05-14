@@ -1,4 +1,6 @@
 /CPP/ignore/
 **/CMakeLists.txt
 *.exe
-**/**/.idea
+**/.idea
+CPP/.idea/vcs.xml
+CPP/MPC/CONTEST 5/E - Vasya and Book .cpp
