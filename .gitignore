@@ -1,0 +1,4 @@
+/CPP/ignore/
+**/CMakeLists.txt
+*.exe
+**/**/.idea
