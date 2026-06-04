@@ -8,10 +8,9 @@ int main() {
     unordered_map<int, bool> map;
     while (size--) {
         cin >> n;
-        if (map.count(n))
-            amt++;
-        else
-            map.emplace(n, true);
+        if (map.count(n)) amt++;
+        else map.emplace(n, true);
     }
     cout << amt << "\n";
+    return 0;
 }
