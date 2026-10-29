@@ -14,4 +14,9 @@ add_executable(CPP ${SOURCES}
         "MPC/CONTEST 6/A - Reorder.cpp"
         "MPC/CONTEST 6/B - Stickers and Toys.cpp"
         "MPC/CONTEST 6/C - Vasily the Bear and Triangle.cpp"
-        "MPC/CONTEST 6/E - Divisor Subtraction.cpp")
+        "MPC/CONTEST 6/E - Divisor Subtraction.cpp"
+        "Codeforces/118/B - Present from Lena.cpp"
+        "Codeforces/2236/A - Games on the Train.cpp"
+        "Codeforces/2254/A - Riptide.cpp"
+        "Codeforces/230/A - Dragons.cpp"
+        "Codeforces/337/A - Puzzles.cpp")
