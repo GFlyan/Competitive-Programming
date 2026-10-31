@@ -20,4 +20,5 @@ add_executable(CPP ${SOURCES}
         "Codeforces/2254/A - Riptide.cpp"
         "Codeforces/230/A - Dragons.cpp"
         "Codeforces/337/A - Puzzles.cpp"
-        "Codeforces/58/A - Chat room.cpp")
+        "Codeforces/58/A - Chat room.cpp"
+        "AG/A - Fall Down.cpp")
